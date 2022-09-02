@@ -1,7 +1,5 @@
-Enchanté, I'm Gabriel from France 🇫🇷
-======================================
-
-### Software engineer passionate about web technologies and challenges. I'm always thrilled about impressing users with awesome experiences.
+<h1 align="center">Enchanté, I'm Gabriel from France 🇫🇷</h1>
+<h3 align="center">Software engineer passionate about web technologies and challenges. I'm always thrilled about impressing users with awesome experiences.</h3>
 
 [![gabattal](https://github-profile-trophy.vercel.app/?username=gabattal&title=MultiLanguage&title=Commits&title=Repositories&title=Stars&margin-w=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) 
 
