@@ -3,7 +3,7 @@
 
 <h3>🏆 Github Profile Trophy </h3>
 
-[![gabattal](https://github-profile-trophy.vercel.app/?username=gabattal&title=MultiLanguage&title=Commits&title=Repositories&title=Stars&margin-w=15&theme=radical)
+![gabattal](https://github-profile-trophy.vercel.app/?username=gabattal&title=MultiLanguage&title=Commits&title=Repositories&title=Stars&margin-w=15&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
